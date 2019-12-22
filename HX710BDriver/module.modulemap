@@ -1,0 +1,5 @@
+module HX710BDriver {
+    umbrella header "HX710BDriver.h"
+    link "HX710BDriver"
+    export *
+}

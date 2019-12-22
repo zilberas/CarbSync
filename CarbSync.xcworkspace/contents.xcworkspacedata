@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CarbSync/CarbSync.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HX710BDriver/HX710BDriver.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HX710BDriverTest/HX710BDriverTest.xcodeproj">
+   </FileRef>
+</Workspace>
