@@ -5,6 +5,8 @@
 A tool for carb synchronisation.
 Uses HX710B chips to read vacuum sensors, and libFTDI to transfer data via USB cable from FT232H (bitbang mode) device.
 
+A [full story](https://treatwell.engineering/how-i-made-a-digital-carburettor-synchroniser-9ece7fa571fb) how I built this tool.
+
 ## Contents
 
 A repo consists of:
